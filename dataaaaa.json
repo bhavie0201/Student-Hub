@@ -1,0 +1,903 @@
+[
+    {
+        "name": "M-1",
+        "id": 1,
+        "moduleNumber":1,
+        "module1":"https://www.w3schools.com/html/html_links.asp",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "APPLIED CHEM",
+        "id": 2,
+        "moduleNumber":2,
+        "module1":"https://www.experts-exchange.com/questions/21697804/Using-innerHTML-to-create-link.html",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "BME-MP",
+        "id": 3,
+        "moduleNumber":3,
+        "module1":"https://chat.openai.com/c/1ca483af-d18f-4d57-b2dc-e148d4b7598f",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "BCE-EM",
+        "id": 4,
+        "moduleNumber":4,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "ENGLISH",
+        "id": 5,
+        "moduleNumber":5,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "M-2",
+        "id": 6,
+        "moduleNumber":1,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "OMP",
+        "id": 7,
+        "moduleNumber":2,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "EGV",
+        "id": 8,
+        "moduleNumber":3,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "BEEE",
+        "id": 9,
+        "moduleNumber":4,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "PPS",
+        "id": 10,
+        "moduleNumber":5,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "M-3",
+        "id": 11,
+        "moduleNumber":1,
+        "module1":"https://drive.google.com/file/d/1CVkbdjp0aOBTMR5MzhwQ8DhdJJo44B4n/view?usp=drive_link",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "DCS",
+        "id": 12,
+        "moduleNumber":2,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "DSA",
+        "id": 13,
+        "moduleNumber":3,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "CSO",
+        "id": 14,
+        "moduleNumber":4,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "PMME",
+        "id": 15,
+        "moduleNumber":5,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "DS",
+        "id": 16,
+        "moduleNumber":1,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "ADC",
+        "id": 17,
+        "moduleNumber":2,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "OPPs",
+        "id": 18,
+        "moduleNumber":3,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "ADA",
+        "id": 19,
+        "moduleNumber":4,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "SSIC",
+        "id": 20,
+        "moduleNumber":5,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "DBMS",
+        "id": 21,
+        "moduleNumber":1,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "M-3",
+        "id": 22,
+        "moduleNumber":2,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "DSA",
+        "id": 23,
+        "moduleNumber":3,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "COA",
+        "id": 24,
+        "moduleNumber":4,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "OPPs",
+        "id": 25,
+        "moduleNumber":5,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "Web-Tech",
+        "id": 26,
+        "moduleNumber":1,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "CN",
+        "id": 27,
+        "moduleNumber":2,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "TOC",
+        "id": 28,
+        "moduleNumber":3,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "ADA",
+        "id": 29,
+        "moduleNumber":4,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "SSIC",
+        "id": 30,
+        "moduleNumber":5,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "Compiler D",
+        "id": 111,
+        "moduleNumber":1,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "AI",
+        "id": 112,
+        "moduleNumber":2,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "Sys-Softwere",
+        "id": 113,
+        "moduleNumber":3,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "MPMC",
+        "id": 114,
+        "moduleNumber":4,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "STQA",
+        "id": 115,
+        "moduleNumber":5,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "Distri-System",
+        "id": 116,
+        "moduleNumber":1,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "CNS",
+        "id": 117,
+        "moduleNumber":2,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "P&D Algo",
+        "id": 118,
+        "moduleNumber":3,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "Mobile Comp.",
+        "id": 119,
+        "moduleNumber":4,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "Elective",
+        "id": 120,
+        "moduleNumber":5,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "DBMS",
+        "id": 121,
+        "moduleNumber":1,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "OS",
+        "id": 122,
+        "moduleNumber":2,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "FLA",
+        "id": 123,
+        "moduleNumber":3,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "SEPM",
+        "id": 124,
+        "moduleNumber":4,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "SM",
+        "id": 125,
+        "moduleNumber":5,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "SciAptitude",
+        "id": 126,
+        "moduleNumber":1,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "IOT",
+        "id": 127,
+        "moduleNumber":2,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "CN",
+        "id": 128,
+        "moduleNumber":3,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "Cyber",
+        "id": 129,
+        "moduleNumber":4,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "FAIML",
+        "id": 130,
+        "moduleNumber":5,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "IOT-Fundam.",
+        "id": 131,
+        "moduleNumber":1,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "Embedded Syst",
+        "id": 132,
+        "moduleNumber":2,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "WSN",
+        "id": 133,
+        "moduleNumber":3,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "S-Dev-IOT",
+        "id": 134,
+        "moduleNumber":4,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "Elective 5",
+        "id": 135,
+        "moduleNumber":5,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "IOT-Proto&Stand.",
+        "id": 136,
+        "moduleNumber":1,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "IOT-App Dev",
+        "id": 137,
+        "moduleNumber":2,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "IOT-Device Int",
+        "id": 138,
+        "moduleNumber":3,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "Elective-02",
+        "id": 139,
+        "moduleNumber":4,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "Elective-03",
+        "id": 140,
+        "moduleNumber":5,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "Intro to DS",
+        "id": 141,
+        "moduleNumber":1,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "ML",
+        "id": 142,
+        "moduleNumber":2,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "Data Mining&WareH.",
+        "id": 143,
+        "moduleNumber":3,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "SM of DS",
+        "id": 144,
+        "moduleNumber":4,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "Big Data Analy.",
+        "id": 145,
+        "moduleNumber":5,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "AMLT",
+        "id": 146,
+        "moduleNumber":1,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "Data Visual.",
+        "id": 147,
+        "moduleNumber":2,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "Cloud CompDS",
+        "id": 148,
+        "moduleNumber":3,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "Optimiz.Tech DS",
+        "id": 149,
+        "moduleNumber":4,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "Elective001",
+        "id": 150,
+        "moduleNumber":5,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "Cyber",
+        "id": 1111,
+        "moduleNumber":1,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "NLP",
+        "id": 1112,
+        "moduleNumber":2,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "HPComp.",
+        "id": 1113,
+        "moduleNumber":3,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "Elective3",
+        "id": 1114,
+        "moduleNumber":4,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "Enternship",
+        "id": 1116,
+        "moduleNumber":1,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "MajorPro",
+        "id": 1117,
+        "moduleNumber":2,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "Data Sci",
+        "id": 1121,
+        "moduleNumber":1,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "Compiler D",
+        "id": 1122,
+        "moduleNumber":2,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "Patter R",
+        "id": 1123,
+        "moduleNumber":3,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "ECom & WebT",
+        "id": 1124,
+        "moduleNumber":4,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "####",
+        "id": 1125,
+        "moduleNumber":5,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "BlockChain",
+        "id": 1126,
+        "moduleNumber":1,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "Cloud CO",
+        "id": 1127,
+        "moduleNumber":2,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "Wireless&MC",
+        "id": 1128,
+        "moduleNumber":3,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "IOTPlat.& Archi",
+        "id": 1131,
+        "moduleNumber":1,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "IOTSecurity",
+        "id": 1132,
+        "moduleNumber":2,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "Elective04",
+        "id": 1133,
+        "moduleNumber":3,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "Project Mang IOT",
+        "id": 1134,
+        "moduleNumber":4,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "####",
+        "id": 1135,
+        "moduleNumber":5,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    },
+    {
+        "name": "IOTMajor Pro",
+        "id": 1136,
+        "moduleNumber":1,
+        "module1":"",
+        "module2":"",
+        "module3":"",
+        "module4":"",
+        "module5":""
+    }
+
+]
